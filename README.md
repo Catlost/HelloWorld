@@ -6,3 +6,4 @@ HelloWorld in some programming languages:
   - C++
   - C
   - Html
+  - Haskell
