@@ -8,3 +8,4 @@ HelloWorld in some programming languages:
   - Html
   - Cobol
   - Shakespeare
+  - Haskell
